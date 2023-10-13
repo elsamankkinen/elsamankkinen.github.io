@@ -3,13 +3,17 @@ h1 {color: white;}
 h1 {font-size:500%}
 h1 {text-align:center;}
 #tausta2 {background-color:salmon;}
-div {background-color:teal;}
+header {background-color:teal;}
 body {color:white;}
-html {background-color:white;}
+html {background-color:black;}
 .fancy {color:purple;}
 p {font-family:Arial;}
 body {margin:auto; max-width: 1200px;}
 .nala {float:right;}
 nav a {color:white;}
 #ekalinkki {color:white;}
-footer {background-color:darkred;}
+footer {background-color:teal;}
+#kuva {width: 400px; max-width: 100%;}
+aside {width: 20%; padding-left: 15px; margin-left: 15px; float: right; font-style: italic; background-color: darkgrey;}
+main {background-color: salmon;}
+#logo {width: 25%; padding-left: 25px; margin-left: 15px; float:right;}
